@@ -9,7 +9,7 @@ from tensorflow import keras
 from PIL import Image
 from sklearn.model_selection import train_test_split 
 #the train_test_split function from the model_selection module in scikit-learn (sklearn)
-EPOCHS = 5
+EPOCHS = 15
 IMG_WIDTH = 30
 IMG_HEIGHT = 30
 NUM_CATEGORIES = 43
